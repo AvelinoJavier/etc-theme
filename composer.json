@@ -23,5 +23,8 @@
       "bootscore",
       "bootstrap",
       "woocommerce"
-    ]
+    ],
+    "require-dev": {
+        "yoast/phpunit-polyfills": "^2.0"
+    }
 }
